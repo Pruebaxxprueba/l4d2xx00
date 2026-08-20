@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/infected/claws/body_d"
+	"$allowdiffusemodulation" "0"
+}
